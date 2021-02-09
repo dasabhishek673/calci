@@ -1,4 +1,7 @@
-print("demo git")
-print("my name is Abhi")
+def calci(n):
+    if n < 0:
+        print("negative")
+    else:
+        print("negative")
 
 
